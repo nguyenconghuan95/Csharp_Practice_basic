@@ -1,0 +1,14 @@
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.exe
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.deps.json
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.runtimeconfig.json
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.dll
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.pdb
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.AssemblyInfoInputs.cache
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.AssemblyInfo.cs
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.dll
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\obj\Debug\net7.0\refint\RockPaperScissors.dll
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.pdb
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.genruntimeconfig.cache
+D:\HuanNguyen\Programming\C#_Practice\RockPaperScissors\obj\Debug\net7.0\ref\RockPaperScissors.dll
